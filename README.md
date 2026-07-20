@@ -17,7 +17,7 @@ i'm a bad developer, i create things that normally never get finished nor close 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bun,next,redis,postgres,react,cloudflare,vercel,nodejs,linux,css,html,typescript,git" />
+    <img src="https://skillicons.dev/icons?i=python,bun,next,react,cloudflare,vercel,nodejs,linux,css,html,typescript,git" />
   </a>
 </p>
 
