@@ -1,7 +1,7 @@
 <h1>
   👋 hello, i'm tao
   <img
-    src="https://raw.githubusercontent.com/lolswatme/lolswatme/main/cat-sleeping.gif"
+    src="https://raw.githubusercontent.com/lolswatme/lolswatme/refs/heads/main/cat-sleeping.gif"
     width="50"
     align="right"
   />
