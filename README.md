@@ -10,7 +10,7 @@
 i'm a bad developer, i create things that normally never get finished nor close to release, also enjoy graphic design, i have some websites done but it's nothing quite special.
 ## current projects
 
-<img src="https://raw.githubusercontent.com/wiltingaway/wiltingaway/main/serene.png" width="18" valign="middle"> [serene](https://serene.cv) - my own discord bot that i've been working on since november  
+<img src="https://raw.githubusercontent.com/wiltingaway/wiltingaway/main/serene.png" width="18" valign="middle"> [fivem](https://www.fivem.net) - always working on smth fivem related
 <img src="https://raw.githubusercontent.com/wiltingaway/wiltingaway/main/clouds.png" width="18" valign="middle"> [clouds.bio](https://clouds.bio) - a poor done biolink that i'm working on
 # stack
 
