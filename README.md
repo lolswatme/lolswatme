@@ -23,7 +23,7 @@ i'm a bad developer, i create things that normally never get finished nor close 
 
 # 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1462697781448675391?idleMessage=chillin" />
+  <img src="https://lanyard.cnrad.dev/api/339100337312890881?idleMessage=chillin" />
 </p>
 
 <p align="middle">
